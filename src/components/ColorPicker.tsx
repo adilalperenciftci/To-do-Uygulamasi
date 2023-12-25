@@ -1,5 +1,4 @@
 import { CSSProperties, useEffect, useState } from "react";
-import { ColorPalette } from "../styles";
 import styled from "@emotion/styled";
 import { Casino, Colorize, Done } from "@mui/icons-material";
 import { getFontColorFromHex } from "../utils";
